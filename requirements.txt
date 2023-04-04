@@ -1,1 +1,4 @@
-requests
+gunicorn == 20.1.0
+Flask == 2.1.2
+requests==2.26.0
+pip == 23.0.1
